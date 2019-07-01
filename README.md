@@ -1,8 +1,7 @@
-[![Join the chat at https://gitter.im/evollu/react-native-fcm](https://badges.gitter.im/evollu/react-native-fcm.svg)](https://gitter.im/evollu/react-native-fcm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Deprecated
-I'm not longer able to maintain this repo.
-check [react-native-firebase](https://rnfirebase.io) instead
+## Intro
+this is the fork of react-native-fcm have updated andriod support files and latest fcm version
+https://github.com/evollu/react-native-fcm
 
 ### To existing react-native-fcm users
 `react-native-firebase` now can do what `react-native-fcm` can so it is a waste of effort to build the same thing in parallel. 
